@@ -1,0 +1,11 @@
+header {
+  color: orangered;
+  font-size: xx-large;
+  text-decoration: underline;
+  font-family: Verdana;
+}
+li {
+  font-size: x-large;
+  color: rgb(62, 6, 114);
+  font-family: Verdana;
+}

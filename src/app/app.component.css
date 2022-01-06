@@ -22,7 +22,7 @@ header {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ddd;
+  background-color: rgb(196, 29, 29);
 }
 
 /* Create an active/current tablink class */
